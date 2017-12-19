@@ -1,0 +1,22 @@
+{
+  "name": "fashionshow",
+  "version": "1.0.0",
+  "description": "个人商城测试版",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpeedYun/fashionshow.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "小厨",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpeedYun/fashionshow/issues"
+  },
+  "homepage": "https://github.com/SpeedYun/fashionshow#readme"
+}
