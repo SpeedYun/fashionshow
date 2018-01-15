@@ -1,0 +1,8 @@
+.Foot{
+  width: 1190px;
+  overflow: hidden;
+
+    margin: 0 auto;
+    clear: both;
+    min-height: 2000px;
+}

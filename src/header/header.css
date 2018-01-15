@@ -1,0 +1,26 @@
+.Header{
+	width: 100%;
+	overflow: hidden;
+	border-bottom: 1px solid #e6e6e6;
+    background-color: #f6f6f6;
+    clear: both;
+}
+.Header .HeaderIn{
+	width: 1190px;
+	margin:0 auto;
+	overflow: hidden;
+	height: 30px;
+    line-height: 30px;
+    font-size: 12px;
+    color:  #666666;
+
+    
+}
+.Header .HeaderIn .HeaderInLeft{
+	float: left;
+	overflow: hidden;
+
+}
+.Header .HeaderIn .HeaderInLeft .HeaderLi{
+	float: left;
+}
